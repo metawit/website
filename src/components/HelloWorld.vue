@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      If you have need something in the mean time contact us 
+      contact us 
       <a href="#" target="_blank" rel="noopener">podile@gmail.com</a>
     </h3>
   </div>
